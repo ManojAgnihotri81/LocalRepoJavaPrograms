@@ -8,4 +8,6 @@ tring s="Manoj Agnihotri";
         }
         System.out.println("Tghe reverse of "+s+ "is " +rev);
 
-        There were few changes in the program and I changed to corect
+        There were few changes in the program and I changed to correct
+        The above line had wrong spellings of corect, they were changes to correct
+        Thanks
