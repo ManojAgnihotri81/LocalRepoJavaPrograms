@@ -1,0 +1,9 @@
+This file contains the base of reverse string skeleton
+tring s="Manoj Agnihotri";
+        String rev='';
+        for(int i=0;i<s.length();i++)
+        {
+          char c=charAt(i).s;
+          rev=c+rev;    
+        }
+        System.out.println("Tghe reverse of "+s+ "is " +rev);
