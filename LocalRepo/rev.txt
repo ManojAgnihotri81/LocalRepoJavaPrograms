@@ -7,3 +7,5 @@ tring s="Manoj Agnihotri";
           rev=c+rev;    
         }
         System.out.println("Tghe reverse of "+s+ "is " +rev);
+
+        There were few changes in the program and I changed to corect
